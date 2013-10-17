@@ -1,0 +1,857 @@
+• 1. Pittsford (Monroe County, Rochester Area)
+
+• 2. Fayetteville-Manlius (Onondaga County, Syracuse Area)
+
+• 3. Honeoye Falls-Lima (Monroe County, Rochester Area)
+
+• 4. Brighton (Monroe County, Rochester Area)
+
+• 5. Skaneateles (Onondaga County, Syracuse Area)
+
+• 6. Williamsville (Erie County, Western New York)
+
+• 7. Cazenovia (Madison County, Syracuse Area)
+
+• 8. East Aurora (Erie County, Western New York)
+
+• 9. Bethlehem (Albany County, Albany Area)
+
+• 10. Clarence (Erie County, Western New York)
+
+• 11. Niskayuna (Schenectady County, Albany Area)
+
+• 12. Penfield (Monroe County, Rochester Area)
+
+• 13. New Hartford (Oneida County, Utica-Rome Area)
+
+• 14. Westhill (Onondaga County, Syracuse Area)
+
+• 15. North Colonie (Albany County, Albany Area)
+
+• 16. Voorheesville (Albany County, Albany Area)
+
+• 17. Jamesville-DeWitt (Onondaga County, Syracuse Area)
+
+• 18. Guilderland (Albany County, Albany Area)
+
+• 19. West Irondequoit (Monroe County, Rochester Area)
+
+• 20. Victor (Ontario County, Rochester Area)
+
+• 21. Orchard Park (Erie County, Western New York)
+
+• 22. Vestal (Broome County, Binghamton-Elmira Area)
+
+• 23. Iroquois (Erie County, Western New York)
+
+• 24. Bemus Point (Chautauqua County, Western New York)
+
+• 25. Saratoga Springs (Saratoga County, Albany Area)
+
+• 26. Lewiston-Porter (Niagara County, Western New York)
+
+• 27. Fairport (Monroe County, Rochester Area)
+
+• 28. Amherst (Erie County, Western New York)
+
+• 29. East Greenbush (Rensselaer County, Albany Area)
+
+• 30. Lancaster (Erie County, Western New York)
+
+• 31. Marcellus (Onondaga County, Syracuse Area)
+
+• 32. Hamburg (Erie County, Western New York)
+
+• 33. Burnt Hills-Ballston Lake (Saratoga County, Albany Area)
+
+• 34. Shenendehowa (Saratoga County, Albany Area)
+
+• 35. Clinton (Oneida County, Utica-Rome Area)
+
+• 36. Grand Island (Erie County, Western New York)
+
+• 37. Lansing (Tompkins County, Syracuse Area)
+
+• 38. Alfred-Almond (Allegany County, Western New York)
+
+• 39. Maine-Endwell (Broome County, Binghamton-Elmira Area)
+
+• 40. Fabius-Pompey (Onondaga County, Syracuse Area)
+
+• 41. Webster (Monroe County, Rochester Area)
+
+• 42. Geneseo (Livingston County, Rochester Area)
+
+• 43. Potsdam (Saint Lawrence County, Watertown Area)
+
+• 44. Akron (Erie County, Western New York)
+
+• 45. Baldwinsville (Onondaga County, Syracuse Area)
+
+• 46. Chazy (Clinton County, Plattsburgh Area)
+
+• 47. Alden (Erie County, Western New York)
+
+• 48. West Genesee (Onondaga County, Syracuse Area)
+
+• 49. Avon (Livingston County, Rochester Area)
+
+• 50. Canandaigua (Ontario County, Rochester Area)
+
+• 51. Southwestern (Chautauqua County, Western New York)
+
+• 52. Spencerport (Monroe County, Rochester Area)
+
+• 53. Cambridge (Washington County, Albany Area)
+
+• 54. South Colonie (Albany County, Albany Area)
+
+• 55. Frontier (Erie County, Western New York)
+
+• 56. Holland (Erie County, Western New York)
+
+• 57. Barker (Niagara County, Western New York)
+
+• 58. Starpoint (Niagara County, Western New York)
+
+• 59. Caledonia-Mumford (Livingston County, Rochester Area)
+
+• 60. Ithaca (Tompkins County, Syracuse Area)
+
+• 61. Wayne (Wayne County, Rochester Area)
+
+• 62. Greenwich (Washington County, Albany Area)
+
+• 63. Owego-Apalachin (Tioga County, Binghamton-Elmira Area)
+
+• 64. West Seneca (Erie County, Western New York)
+
+• 65. Queensbury (Warren County, Albany Area)
+
+• 66. Greene (Chenango County, Binghamton-Elmira Area)
+
+• 67. Hilton (Monroe County, Rochester Area)
+
+• 68. Tully (Onondaga County, Syracuse Area)
+
+• 69. Whitesboro (Oneida County, Utica-Rome Area)
+
+• 70. Lake George (Warren County, Albany Area)
+
+• 71. Wilson (Niagara County, Western New York)
+
+• 72. Schodack (Rensselaer County, Albany Area)
+
+• 73. Beaver River (Lewis County, Watertown Area)
+
+• 74. Weedsport (Cayuga County, Syracuse Area)
+
+• 75. Canton (Saint Lawrence County, Watertown Area)
+
+• 76. Chittenango (Madison County, Syracuse Area)
+
+• 77. Rush-Henrietta (Monroe County, Rochester Area)
+
+• 78. Churchville-Chili (Monroe County, Rochester Area)
+
+• 79. Pembroke (Genesee County, Western New York)
+
+• 80. Fredonia (Chautauqua County, Western New York)
+
+• 81. Hamilton (Madison County, Syracuse Area)
+
+• 82. Eden (Erie County, Western New York)
+
+• 83. Thousand Islands (Jefferson County, Watertown Area)
+
+• 84. Horseheads (Chemung County, Binghamton-Elmira Area)
+
+• 85. Gananda (Wayne County, Rochester Area)
+
+• 86. Town of Webb (Herkimer County, Utica-Rome Area)
+
+• 87. Liverpool (Onondaga County, Syracuse Area)
+
+• 88. Honeoye (Ontario County, Rochester Area)
+
+• 89. Niagara-Wheatfield (Niagara County, Western New York)
+
+• 90. Ballston Spa (Saratoga County, Albany Area)
+
+• 91. Averill Park (Rensselaer County, Albany Area)
+
+• 92. Bloomfield (Ontario County, Rochester Area)
+
+• 93. Onondaga (Onondaga County, Syracuse Area)
+
+• 94. General Brown (Jefferson County, Watertown Area)
+
+• 95. Windsor (Broome County, Binghamton-Elmira Area)
+
+• 96. Chenango Forks (Broome County, Binghamton-Elmira Area)
+
+• 97. Naples (Ontario County, Rochester Area)
+
+• 98. Lake Placid (Essex County, Plattsburgh Area)
+
+• 99. Duanesburg (Schenectady County, Albany Area)
+
+• 100. Springville-Griffith Institute (Erie County, Western New York)
+
+• 101. Chautauqua Lake (Chautauqua County, Western New York)
+
+• 102. North Collins (Erie County, Western New York)
+
+• 103. Tioga (Tioga County, Binghamton-Elmira Area)
+
+• 104. LeRoy (Genesee County, Western New York)
+
+• 105. North Syracuse (Onondaga County, Syracuse Area)
+
+• 106. Wheatland-Chili (Monroe County, Rochester Area)
+
+• 107. Schalmont (Schenectady County, Albany Area)
+
+• 108. Delaware Academy at Delhi (Delaware County, Binghamton-Elmira Area)
+
+• 109. Westmoreland (Oneida County, Utica-Rome Area)
+
+• 110. Ellicottville (Cattaraugus County, Western New York)
+
+• 111. Allegany-Limestone (Cattaraugus County, Western New York)
+
+• 112. Westfield (Chautauqua County, Western New York)
+
+• 113. Sauquoit Valley (Oneida County, Utica-Rome Area)
+
+• 114. Scotia-Glenville (Schenectady County, Albany Area)
+
+• 115. Pavilion (Genesee County, Western New York)
+
+• 116. Saranac Lake (Franklin County, Plattsburgh Area)
+
+• 117. Depew (Erie County, Western New York)
+
+• 118. Arkport (Steuben County, Rochester Area)
+
+• 119. Fonda-Fultonville (Montgomery County, Albany Area)
+
+• 120. Milford (Otsego County, Utica-Rome Area)
+
+• 121. Colton-Pierrepont (Saint Lawrence County, Watertown Area)
+
+• 122. Warrensburg (Warren County, Albany Area)
+
+• 123. Marcus Whitman (Ontario County, Rochester Area)
+
+• 124. Williamson (Wayne County, Rochester Area)
+
+• 125. Oakfield-Alabama (Genesee County, Western New York)
+
+• 126. Sherrill (Oneida County, Utica-Rome Area)
+
+• 127. Schuylerville (Saratoga County, Albany Area)
+
+• 128. New York Mills (Oneida County, Utica-Rome Area)
+
+• 129. Salem (Washington County, Albany Area)
+
+• 130. Cooperstown (Otsego County, Utica-Rome Area)
+
+• 131. Sackets Harbor (Jefferson County, Watertown Area)
+
+• 132. Glens Falls (Warren County, Albany Area)
+
+• 133. Palmyra-Macedon (Wayne County, Rochester Area)
+
+• 134. Brockport (Monroe County, Rochester Area)
+
+• 135. Holland Patent (Oneida County, Utica-Rome Area)
+
+• 136. Oneonta (Otsego County, Utica-Rome Area)
+
+• 137. Gates Chili (Monroe County, Rochester Area)
+
+• 138. North Warren (Warren County, Albany Area)
+
+• 139. Manchester-Shortsville (Ontario County, Rochester Area)
+
+• 140. Cuba-Rushford (Allegany County, Western New York)
+
+• 141. Union-Endicott (Broome County, Binghamton-Elmira Area)
+
+• 142. Sherman (Chautauqua County, Western New York)
+
+• 143. Sweet Home (Erie County, Western New York)
+
+• 144. Johnsburg (Warren County, Albany Area)
+
+• 145. Windham-Ashland-Jewett (Greene County, Albany Area)
+
+• 146. Union Springs (Cayuga County, Syracuse Area)
+
+• 147. Canajoharie (Montgomery County, Albany Area)
+
+• 148. South Glens Falls (Saratoga County, Albany Area)
+
+• 149. West Canada Valley (Herkimer County, Utica-Rome Area)
+
+• 150. Oriskany (Oneida County, Utica-Rome Area)
+
+• 151. Worcester (Otsego County, Utica-Rome Area)
+
+• 152. Chenango Valley (Broome County, Binghamton-Elmira Area)
+
+• 153. Hoosick Falls (Rensselaer County, Albany Area)
+
+• 154. Tonawanda (Erie County, Western New York)
+
+• 155. Parishville-Hopkinton (Saint Lawrence County, Watertown Area)
+
+• 156. West Valley (Cattaraugus County, Western New York)
+
+• 157. Kinderhook (Columbia County, Albany Area)
+
+• 158. Homer (Cortland County, Syracuse Area)
+
+• 159. Bath (Steuben County, Rochester Area)
+
+• 160. Cheektowaga-Maryvale (Erie County, Western New York)
+
+• 161. Lowville Academy (Lewis County, Watertown Area)
+
+• 162. Kendall (Orleans County, Western New York)
+
+• 163. South Jefferson (Jefferson County, Watertown Area)
+
+• 164. Copenhagen (Lewis County, Watertown Area)
+
+• 165. Alexandria (Jefferson County, Watertown Area)
+
+• 166. Alexander (Genesee County, Western New York)
+
+• 167. Byron-Bergen (Genesee County, Western New York)
+
+• 168. Elba (Genesee County, Western New York)
+
+• 169. Newfane (Niagara County, Western New York)
+
+• 170. Attica (Wyoming County, Western New York)
+
+• 171. Brunswick (Rensselaer County, Albany Area)
+
+• 172. Letchworth (Wyoming County, Western New York)
+
+• 173. Saranac (Clinton County, Plattsburgh Area)
+
+• 174. Seneca Falls (Seneca County, Rochester Area)
+
+• 175. Germantown (Columbia County, Albany Area)
+
+• 176. Mayfield (Fulton County, Albany Area)
+
+• 177. Prattsburgh (Steuben County, Rochester Area)
+
+• 178. Dalton-Nunda (Livingston County, Rochester Area)
+
+• 179. Pine Valley (Chautauqua County, Western New York)
+
+• 180. Kenmore-Tonawanda (Erie County, Western New York)
+
+• 181. Penn Yan (Yates County, Rochester Area)
+
+• 182. Red Creek (Wayne County, Rochester Area)
+
+• 183. Trumansburg (Tompkins County, Syracuse Area)
+
+• 184. Hammondsport (Steuben County, Rochester Area)
+
+• 185. Susquehanna Valley (Broome County, Binghamton-Elmira Area)
+
+• 186. Coxsackie-Athens (Greene County, Albany Area)
+
+• 187. Greece (Monroe County, Rochester Area)
+
+• 188. Phelps-Clifton Springs (Ontario County, Rochester Area)
+
+• 189. Broadalbin-Perth (Fulton County, Albany Area)
+
+• 190. Clymer (Chautauqua County, Western New York)
+
+• 191. Pulaski (Oswego County, Syracuse Area)
+
+• 192. Livonia (Livingston County, Rochester Area)
+
+• 193. Rotterdam-Mohonasen (Schenectady County, Albany Area)
+
+• 194. Romulus (Seneca County, Rochester Area)
+
+• 195. East Syracuse-Minoa (Onondaga County, Syracuse Area)
+
+• 196. Chateaugay (Franklin County, Plattsburgh Area)
+
+• 197. Panama (Chautauqua County, Western New York)
+
+• 198. Chatham (Columbia County, Albany Area)
+
+• 199. Marion (Wayne County, Rochester Area)
+
+• 200. Belleville Henderson (Jefferson County, Watertown Area)
+
+• 201. Jordan-Elbridge (Onondaga County, Syracuse Area)
+
+• 202. Oneida (Madison County, Syracuse Area)
+
+• 203. Waterville (Oneida County, Utica-Rome Area)
+
+• 204. Dryden (Tompkins County, Syracuse Area)
+
+• 205. Plattsburgh (Clinton County, Plattsburgh Area)
+
+• 206. New Lebanon (Columbia County, Albany Area)
+
+• 207. Hunter-Tannersville (Greene County, Albany Area)
+
+• 208. Ravena-Coeymans-Selkirk (Albany County, Albany Area)
+
+• 209. Sandy Creek (Oswego County, Syracuse Area)
+
+• 210. Laurens (Otsego County, Utica-Rome Area)
+
+• 211. Stockbridge Valley (Madison County, Syracuse Area)
+
+• 212. Clifton-Fine (Saint Lawrence County, Watertown Area)
+
+• 213. Lyndonville (Orleans County, Western New York)
+
+• 214. Camden (Oneida County, Utica-Rome Area)
+
+• 215. Cassadaga Valley (Chautauqua County, Western New York)
+
+• 216. Portville (Cattaraugus County, Western New York)
+
+• 217. Wayland-Cohocton (Steuben County, Rochester Area)
+
+• 218. Newark Valley (Tioga County, Binghamton-Elmira Area)
+
+• 219. Little Falls (Herkimer County, Utica-Rome Area)
+
+• 220. LaFayette (Onondaga County, Syracuse Area)
+
+• 221. Cleveland Hill (Erie County, Western New York)
+
+• 222. Fillmore (Allegany County, Western New York)
+
+• 223. Evans-Brant (Erie County, Western New York)
+
+• 224. Randolph (Cattaraugus County, Western New York)
+
+• 225. Elizabethtown-Lewis (Essex County, Plattsburgh Area)
+
+• 226. Newfield (Tompkins County, Syracuse Area)
+
+• 227. Stamford (Delaware County, Binghamton-Elmira Area)
+
+• 228. Batavia (Genesee County, Western New York)
+
+• 229. Ogdensburg (Saint Lawrence County, Watertown Area)
+
+• 230. Johnson City (Broome County, Binghamton-Elmira Area)
+
+• 231. Cheektowaga-Sloan (Erie County, Western New York)
+
+• 232. Albion (Orleans County, Western New York)
+
+• 233. North Tonawanda (Niagara County, Western New York)
+
+• 234. Perry (Wyoming County, Western New York)
+
+• 235. Moravia (Cayuga County, Syracuse Area)
+
+• 236. Franklin (Delaware County, Binghamton-Elmira Area)
+
+• 237. Lyme (Jefferson County, Watertown Area)
+
+• 238. Central Square (Oswego County, Syracuse Area)
+
+• 239. Warsaw (Wyoming County, Western New York)
+
+• 240. Schenevus (Otsego County, Utica-Rome Area)
+
+• 241. Silver Creek (Chautauqua County, Western New York)
+
+• 242. Whitney Point (Broome County, Binghamton-Elmira Area)
+
+• 243. Stillwater (Saratoga County, Albany Area)
+
+• 244. Bolivar-Richburg (Allegany County, Western New York)
+
+• 245. Frewsburg (Chautauqua County, Western New York)
+
+• 246. Ticonderoga (Essex County, Plattsburgh Area)
+
+• 247. Gilbertsville-Mount Upton (Otsego County, Utica-Rome Area)
+
+• 248. Southern Cayuga (Cayuga County, Syracuse Area)
+
+• 249. Wellsville (Allegany County, Western New York)
+
+• 250. Deposit (Broome County, Binghamton-Elmira Area)
+
+• 251. York (Livingston County, Rochester Area)
+
+• 252. Hoosic Valley (Rensselaer County, Albany Area)
+
+• 253. Morris (Otsego County, Utica-Rome Area)
+
+• 254. Massena (Saint Lawrence County, Watertown Area)
+
+• 255. East Rochester (Monroe County, Rochester Area)
+
+• 256. Frankfort-Schuyler (Herkimer County, Utica-Rome Area)
+
+• 257. Cincinnatus (Cortland County, Syracuse Area)
+
+• 258. Mechanicville (Saratoga County, Albany Area)
+
+• 259. Madison (Madison County, Syracuse Area)
+
+• 260. Lockport (Niagara County, Western New York)
+
+• 261. Fort Ann (Washington County, Albany Area)
+
+• 262. Olean (Cattaraugus County, Western New York)
+
+• 263. Berne-Knox-Westerlo (Albany County, Albany Area)
+
+• 264. Cato-Meridian (Cayuga County, Syracuse Area)
+
+• 265. Cobleskill-Richmondville (Schoharie County, Albany Area)
+
+• 266. Hadley-Luzerne (Warren County, Albany Area)
+
+• 267. Auburn (Cayuga County, Syracuse Area)
+
+• 268. Margaretville (Delaware County, Binghamton-Elmira Area)
+
+• 269. Falconer (Chautauqua County, Western New York)
+
+• 270. Sherburne-Earlville (Chenango County, Binghamton-Elmira Area)
+
+• 271. Genesee Valley (Allegany County, Western New York)
+
+• 272. Lisbon (Saint Lawrence County, Watertown Area)
+
+• 273. Oswego (Oswego County, Syracuse Area)
+
+• 274. Bainbridge-Guilford (Chenango County, Binghamton-Elmira Area)
+
+• 275. Norwood-Norfolk (Saint Lawrence County, Watertown Area)
+
+• 276. Edmeston (Otsego County, Utica-Rome Area)
+
+• 277. Carthage (Jefferson County, Watertown Area)
+
+• 278. Greenville (Greene County, Albany Area)
+
+• 279. Northeastern Clinton (Clinton County, Plattsburgh Area)
+
+• 280. Downsville (Delaware County, Binghamton-Elmira Area)
+
+• 281. Yorkshire-Pioneer (Cattaraugus County, Western New York)
+
+• 282. Phoenix (Oswego County, Syracuse Area)
+
+• 283. Corning-Painted Post (Steuben County, Rochester Area)
+
+• 284. Dansville (Livingston County, Rochester Area)
+
+• 285. Royalton-Hartland (Niagara County, Western New York)
+
+• 286. Fulton (Oswego County, Syracuse Area)
+
+• 287. Norwich (Chenango County, Binghamton-Elmira Area)
+
+• 288. Waterford-Halfmoon (Saratoga County, Albany Area)
+
+• 289. Geneva (Ontario County, Rochester Area)
+
+• 290. Whitesville (Allegany County, Western New York)
+
+• 291. Adirondack (Oneida County, Utica-Rome Area)
+
+• 292. Watkins Glen (Schuyler County, Rochester Area)
+
+• 293. Peru (Clinton County, Plattsburgh Area)
+
+• 294. Poland (Herkimer County, Utica-Rome Area)
+
+• 295. Galway (Saratoga County, Albany Area)
+
+• 296. Schoharie (Schoharie County, Albany Area)
+
+• 297. Cattaraugus-Little Valley (Cattaraugus County, Western New York)
+
+• 298. South Lewis (Lewis County, Watertown Area)
+
+• 299. Argyle (Washington County, Albany Area)
+
+• 300. South Kortright (Delaware County, Binghamton-Elmira Area)
+
+• 301. Roxbury (Delaware County, Binghamton-Elmira Area)
+
+• 302. Sodus (Wayne County, Rochester Area)
+
+• 303. Solvay (Onondaga County, Syracuse Area)
+
+• 304. Morrisville-Eaton (Madison County, Syracuse Area)
+
+• 305. Belfast (Allegany County, Western New York)
+
+• 306. Dolgeville (Herkimer County, Utica-Rome Area)
+
+• 307. Tupper Lake (Franklin County, Plattsburgh Area)
+
+• 308. Cortland (Cortland County, Syracuse Area)
+
+• 309. Avoca (Steuben County, Rochester Area)
+
+• 310. Hartford (Washington County, Albany Area)
+
+• 311. Gowanda (Cattaraugus County, Western New York)
+
+• 312. Jefferson (Schoharie County, Albany Area)
+
+• 313. Hermon-DeKalb (Saint Lawrence County, Watertown Area)
+
+• 314. LaFargeville (Jefferson County, Watertown Area)
+
+• 315. Gilboa-Conesville (Schoharie County, Albany Area)
+
+• 316. Harrisville (Lewis County, Watertown Area)
+
+• 317. Mount Morris (Livingston County, Rochester Area)
+
+• 318. Jasper-Troupsburg (Steuben County, Rochester Area)
+
+• 319. Medina (Orleans County, Western New York)
+
+• 320. Mount Markham (Herkimer County, Utica-Rome Area)
+
+• 321. East Irondequoit (Monroe County, Rochester Area)
+
+• 322. Harpursville (Broome County, Binghamton-Elmira Area)
+
+• 323. Heuvelton (Saint Lawrence County, Watertown Area)
+
+• 324. Fort Plain (Montgomery County, Albany Area)
+
+• 325. Corinth (Saratoga County, Albany Area)
+
+• 326. Spencer-Van Etten (Tioga County, Binghamton-Elmira Area)
+
+• 327. Newark (Wayne County, Rochester Area)
+
+• 328. Scio (Allegany County, Western New York)
+
+• 329. Lyons (Wayne County, Rochester Area)
+
+• 330. Hammond (Saint Lawrence County, Watertown Area)
+
+• 331. Gouverneur (Saint Lawrence County, Watertown Area)
+
+• 332. Remsen (Oneida County, Utica-Rome Area)
+
+• 333. Unatego (Otsego County, Utica-Rome Area)
+
+• 334. Sharon Springs (Schoharie County, Albany Area)
+
+• 335. Unadilla Valley (Chenango County, Binghamton-Elmira Area)
+
+• 336. Cherry Valley-Springfield (Otsego County, Utica-Rome Area)
+
+• 337. Franklinville (Cattaraugus County, Western New York)
+
+• 338. Northville (Fulton County, Albany Area)
+
+• 339. Taconic Hills (Columbia County, Albany Area)
+
+• 340. Morristown (Saint Lawrence County, Watertown Area)
+
+• 341. Dundee (Yates County, Rochester Area)
+
+• 342. Middleburgh (Schoharie County, Albany Area)
+
+• 343. Ripley (Chautauqua County, Western New York)
+
+• 344. Willsboro (Essex County, Plattsburgh Area)
+
+• 345. Brocton (Chautauqua County, Western New York)
+
+• 346. Richfield Springs (Otsego County, Utica-Rome Area)
+
+• 347. Elmira Heights (Chemung County, Binghamton-Elmira Area)
+
+• 348. Hancock (Delaware County, Binghamton-Elmira Area)
+
+• 349. Madrid-Waddington (Saint Lawrence County, Watertown Area)
+
+• 350. Johnstown (Fulton County, Albany Area)
+
+• 351. Indian River (Jefferson County, Watertown Area)
+
+• 352. Saint Regis Falls (Franklin County, Plattsburgh Area)
+
+• 353. Fort Edward (Washington County, Albany Area)
+
+• 354. Waterloo (Seneca County, Rochester Area)
+
+• 355. Andover (Allegany County, Western New York)
+
+• 356. Northern Adirondack (Clinton County, Plattsburgh Area)
+
+• 357. Hornell (Steuben County, Rochester Area)
+
+• 358. Oxford Academy (Chenango County, Binghamton-Elmira Area)
+
+• 359. Mexico (Oswego County, Syracuse Area)
+
+• 360. Canisteo-Greenwood (Steuben County, Rochester Area)
+
+• 361. Beekmantown (Clinton County, Plattsburgh Area)
+
+• 362. Charlotte Valley (Delaware County, Binghamton-Elmira Area)
+
+• 363. Canastota (Madison County, Syracuse Area)
+
+• 364. Marathon (Cortland County, Syracuse Area)
+
+• 365. Cheektowaga (Erie County, Western New York)
+
+• 366. Berlin (Rensselaer County, Albany Area)
+
+• 367. AuSable Valley (Clinton County, Plattsburgh Area)
+
+• 368. DeRuyter (Madison County, Syracuse Area)
+
+• 369. Georgetown-South Otselic (Chenango County, Binghamton-Elmira Area)
+
+• 370. Sidney (Delaware County, Binghamton-Elmira Area)
+
+• 371. Odessa-Montour (Schuyler County, Rochester Area)
+
+• 372. Watertown (Jefferson County, Watertown Area)
+
+• 373. Granville (Washington County, Albany Area)
+
+• 374. Campbell-Savona (Steuben County, Rochester Area)
+
+• 375. Waverly (Tioga County, Binghamton-Elmira Area)
+
+• 376. Jamestown (Chautauqua County, Western New York)
+
+• 377. Groton (Tompkins County, Syracuse Area)
+
+• 378. Edwards-Knox (Saint Lawrence County, Watertown Area)
+
+• 379. Brushton-Moira (Franklin County, Plattsburgh Area)
+
+• 380. McGraw (Cortland County, Syracuse Area)
+
+• 381. Candor (Tioga County, Binghamton-Elmira Area)
+
+• 382. Rensselaer (Rensselaer County, Albany Area)
+
+• 383. Rome (Oneida County, Utica-Rome Area)
+
+• 384. Herkimer (Herkimer County, Utica-Rome Area)
+
+• 385. Forestville (Chautauqua County, Western New York)
+
+• 386. Hudson Falls (Washington County, Albany Area)
+
+• 387. Oppenheim-Ephratah-Saint Johnsville (Fulton County, Albany Area)
+
+• 388. Altmar-Parish-Williamstown (Oswego County, Syracuse Area)
+
+• 389. Malone (Franklin County, Plattsburgh Area)
+
+• 390. Friendship (Allegany County, Western New York)
+
+• 391. Hinsdale (Cattaraugus County, Western New York)
+
+• 392. Moriah (Essex County, Plattsburgh Area)
+
+• 393. Hannibal (Oswego County, Syracuse Area)
+
+• 394. Central Valley (Herkimer County, Utica-Rome Area)
+
+• 395. Clyde-Savannah (Wayne County, Rochester Area)
+
+• 396. Catskill (Greene County, Albany Area)
+
+• 397. Brasher Falls (Saint Lawrence County, Watertown Area)
+
+• 398. Cohoes (Albany County, Albany Area)
+
+• 399. Watervliet (Albany County, Albany Area)
+
+• 400. Port Byron (Cayuga County, Syracuse Area)
+
+• 401. Holley (Orleans County, Western New York)
+
+• 402. North Rose-Wolcott (Wayne County, Rochester Area)
+
+• 403. Canaseraga (Allegany County, Western New York)
+
+• 404. Cairo-Durham (Greene County, Albany Area)
+
+• 405. Gloversville (Fulton County, Albany Area)
+
+• 406. Whitehall (Washington County, Albany Area)
+
+• 407. Bradford (Steuben County, Rochester Area)
+
+• 408. South Seneca (Seneca County, Rochester Area)
+
+• 409. Lansingburgh (Rensselaer County, Albany Area)
+
+• 410. Green Island (Albany County, Albany Area)
+
+• 411. Niagara Falls (Niagara County, Western New York)
+
+• 412. Salmon River (Franklin County, Plattsburgh Area)
+
+• 413. Amsterdam (Montgomery County, Albany Area)
+
+• 414. Salamanca (Cattaraugus County, Western New York)
+
+• 415. Afton (Chenango County, Binghamton-Elmira Area)
+
+• 416. Walton (Delaware County, Binghamton-Elmira Area)
+
+• 417. Troy (Rensselaer County, Albany Area)
+
+• 418. Elmira (Chemung County, Binghamton-Elmira Area)
+
+• 419. Binghamton (Broome County, Binghamton-Elmira Area)
+
+• 420. Dunkirk (Chautauqua County, Western New York)
+
+• 421. Hudson (Columbia County, Albany Area)
+
+• 422. Lackawanna (Erie County, Western New York)
+
+• 423. Utica (Oneida County, Utica-Rome Area)
+
+• 424. Addison (Steuben County, Rochester Area)
+
+• 425. Schenectady (Schenectady County, Albany Area)
+
+• 426. Albany (Albany County, Albany Area)
+
+• 427. Buffalo (Erie County, Western New York)
+
+• 428. Syracuse (Onondaga County, Syracuse Area)
+
+• 429. Rochester (Monroe County, Rochester Area)
